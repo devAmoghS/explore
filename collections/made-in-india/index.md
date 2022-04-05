@@ -1,6 +1,7 @@
 ---
 items:
  - TheAlgorithms
+ - devAmoghS/Machine-Learning-with-Python
  - odpf
  - hoppscotch/hoppscotch
  - anuraghazra/github-readme-stats
